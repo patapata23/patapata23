@@ -17,7 +17,16 @@
 </p>
 
 
-### Hi there 👋
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patapata23&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patapata23&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patapata23&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=patapata23&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patapata23&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=patapata23&theme=gruvbox)
+
 
 <!--
 **patapata23/patapata23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
